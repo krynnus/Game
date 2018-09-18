@@ -1,0 +1,7 @@
+def is_Ansel(x): 
+  if x == "ansel" or x == "Ansel": 
+    print "Is Ansel"
+  else: 
+    print "Not Ansel"
+
+is_Ansel("Justin")
